@@ -1,0 +1,11 @@
+name: CS7641
+dependencies:
+- python
+- matplotlib
+- numpy
+- scipy
+- nb_conda
+- pandas
+- scikit-learn
+
+        
